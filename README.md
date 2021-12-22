@@ -5,6 +5,6 @@
 - 🏠 Open source enthusiast
 - 💬 Problem solving and competitive programming addict
 - 👯 Looking to collaborate on Machine Learning projects
-- 💻 Expertises with C language and Unix-like systems
+- 💻 Expertise with C language and Unix-like systems
 - 📫 Contact: maghat.abdessalam@gmail.com
 
