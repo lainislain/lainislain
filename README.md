@@ -4,7 +4,7 @@
 - 🌱 Currently learning Blockchain and Front-end dev using Solidity/Truffle/Alchemy and ReactJS
 - 🏠 Open source enthusiast
 - 💬 Problem solving and competitive programming addict
-- 👯 Looking to collaborate on Machine Learning
+- 👯 Looking to collaborate on Machine Learning projects
 - 💻 Expertises with C language and Unix-like systems
 - 📫 Contact: maghat.abdessalam@gmail.com
 
