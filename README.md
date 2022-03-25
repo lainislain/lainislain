@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm a software developer with more than 3 years of experience in python and data engineering
-- 🌱 Currently learning Blockchain and Front-end dev using Solidity/Truffle/Alchemy and ReactJS
+- 👨‍💻 I'm a python developper interested in data science
+- 🌱 Currently learning and practicing solidity and Webdev 
 - 🏠 Open source enthusiast
 - 💬 Problem solving and competitive programming addict
-- 👯 Looking to collaborate on Machine Learning and/or Blockchain projects
+- 👯 Looking to collaborate on machine learning and blockchain projects
 - 💻 Expertise with C language and Unix-like systems
 - 📫 Contact: maghat.abdessalam@gmail.com
-
